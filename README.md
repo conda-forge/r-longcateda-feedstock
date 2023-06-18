@@ -1,11 +1,11 @@
-About r-longcateda
-==================
+About r-longcateda-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-longcateda-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=longCatEDA
 
 Package license: GPL-3.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-longcateda-feedstock/blob/main/LICENSE.txt)
 
 Summary: Methods for plotting categorical longitudinal and time-series data by mapping individuals to the vertical space (each horizontal line represents a participant), time (or repeated measures) to the horizontal space, categorical (or discrete) states as facets using color or shade, and events to points using plotting characters. Sorting individuals in the vertical space and (or) stratifying them by groups can reveal patterns in the changes over time.
 
